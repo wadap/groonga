@@ -1,12 +1,4 @@
 Description
 ===========
-
-Requirements
-============
-
-Attributes
-==========
-
-Usage
-=====
+The Chef `groonga` cookbook installs the `groonga` package and mecab.
 
